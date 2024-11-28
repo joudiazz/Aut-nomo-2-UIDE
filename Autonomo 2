@@ -1,0 +1,15 @@
+import pygame
+import random
+
+def main():
+    ventana.pygame.set_mode ((400,400))
+    ventana.fill((0,0,0))
+    run = True 
+    while run:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                run = False 
+-----------------------------------------------------------------------------------------
+https://lucid.app/lucidchart/59fb5a71-4c24-4d6c-8ae5-cfd4017e0ea9/edit?viewport_loc=-3652%2C-407%2C5263%2C2385%2C0_0&invitationId=inv_943b37c4-b1cf-405d-ae26-0bb8828d02bc
+
+Hasta ahí es lo que he podido avanzar y la verdad tengo muchas dudas. Se me ha complicado mucho la materia.
